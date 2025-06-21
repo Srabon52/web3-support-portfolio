@@ -60,4 +60,4 @@ Feel free to connect for part-time, full-time, or internship roles in Web3 custo
 🌍 GitHub: [Srabon52](https://github.com/Srabon52)
 
 
-📄 [View My Resume](./Saiful-Islam-Resume.pdf)
+📄 [View My Resume](Saiful_Srabon_Web3_Resume.pdf)
