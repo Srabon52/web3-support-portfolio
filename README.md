@@ -59,4 +59,5 @@ Feel free to connect for part-time, full-time, or internship roles in Web3 custo
 📧 Email: srabonsdark573@gmail.com  
 🌍 GitHub: [Srabon52](https://github.com/Srabon52)
 
-📄 [View My Resume] (./Saiful_Srabon_Web3_Resume.pdf)
+
+📄 [View My Resume](./Saiful-Islam-Resume.pdf)
